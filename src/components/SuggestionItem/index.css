@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.lists {
+  display: flex;
+  flex-direction: row;
+}
+.para {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #475569;
+  width: 400px;
+}
+.arrows {
+  height: 5vh;
+  margin-top: 20px;
+}
+.button {
+  height: 5vh;
+  background-color: #ffffff;
+  border-color: #ffffff;
+}

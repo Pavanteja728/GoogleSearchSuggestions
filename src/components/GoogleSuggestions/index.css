@@ -1,0 +1,63 @@
+/* Write your CSS here */
+
+.bgCont {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cardCont {
+  background-color: #ffffff;
+  height: 400px;
+  width: 500px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.gooImg {
+  height: 100px;
+  width: 320px;
+}
+
+.googleCard {
+  background-color: #ffffff;
+  border-radius: 10px;
+  border-radius: 8px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #bfbfbf;
+  width: 500px;
+
+  margin-top: 30px;
+  padding: 5px;
+}
+
+.searchBar {
+  height: 35px;
+  width: 400px;
+  border-radius: 10px;
+  border-width: 0px;
+  padding: 10px;
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #64748b;
+  margin-bottom: 5px;
+  border-color: #ffffff;
+}
+
+.search {
+  height: 5vh;
+  margin-right: 5px;
+  margin-top: 2px;
+}
+
+.searchBar {
+  padding: 5px;
+  display: flex;
+}
